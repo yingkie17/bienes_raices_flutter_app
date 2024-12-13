@@ -1,0 +1,10 @@
+export 'package:bienes_raices_app/assets/colors/colors.dart';
+export 'package:bienes_raices_app/src/vistas/agente/gestiones/list/agente_gestiones_lista_page.dart';
+export 'package:bienes_raices_app/src/vistas/cliente/propiedades/list/cliente_propiedades_lista_page.dart';
+export 'package:bienes_raices_app/src/vistas/inmobiliaria/gestiones/list/inmobiliaria_gestiones_list_page.dart';
+export 'package:bienes_raices_app/src/vistas/login/login_controlador.dart';
+export 'package:bienes_raices_app/src/vistas/login/login_page.dart';
+export 'package:bienes_raices_app/src/vistas/registro/registro_controlador.dart';
+export 'package:bienes_raices_app/src/vistas/registro/registro_page.dart';
+export 'package:bienes_raices_app/src/roles/roles_page.dart';
+export 'dart:io';

@@ -1,0 +1,13 @@
+Cliente:
+
+https://res.cloudinary.com/unandes-proyectogrado/image/upload/v1679115529/public/Cliente_tfmums.png
+
+Inmobiliaria: 
+
+https://res.cloudinary.com/unandes-proyectogrado/image/upload/v1679115529/public/Agencia_ohsc8x.png
+
+
+Agentes:
+
+
+https://res.cloudinary.com/unandes-proyectogrado/image/upload/v1679115529/public/Agemte_dprnng.png

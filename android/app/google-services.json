@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646779002483",
+    "project_id": "bienes-raices-app-b1671",
+    "storage_bucket": "bienes-raices-app-b1671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646779002483:android:a01fc959bc29eaff765406",
+        "android_client_info": {
+          "package_name": "com.example.bienes_raices_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTJWRaPa4Oe2Zaqx5ghdqScTgU3Vgwf3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
